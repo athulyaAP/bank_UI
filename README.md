@@ -1,4 +1,6 @@
 # bank_ui
+![Screenshot (235)](https://github.com/athulyaAP/bank_UI/assets/125082882/89723b89-04b1-4175-937c-f429d8e5fb72)
+
 
 A new Flutter project.
 
